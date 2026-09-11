@@ -112,12 +112,14 @@ These segments allow SmartCart to apply targeted marketing strategies instead of
 
 ## Project Structure
 
-```
+```text
 SmartCart/
 │
 ├── SmartCart.ipynb
 ├── smartcart_customers.csv
 ├── README.md
+├── requirements.txt
+├── .gitignore
 │
 └── images/
     ├── correlation_heatmap.png
@@ -126,7 +128,6 @@ SmartCart/
     ├── k_distance_plot.png
     ├── kmeans_evaluation.png
     └── pca_3d_clusters.png
-```
 
 ## Conclusion
 
