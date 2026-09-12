@@ -34,3 +34,6 @@ dist/
 
 # Cache
 .cache/
+
+# Dataset
+smartcart_customers.csv
