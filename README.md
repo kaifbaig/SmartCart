@@ -116,7 +116,6 @@ These segments allow SmartCart to apply targeted marketing strategies instead of
 SmartCart/
 │
 ├── SmartCart.ipynb
-├── smartcart_customers.csv
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
